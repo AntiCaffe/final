@@ -4,5 +4,5 @@
     android:id="@+id/main_layout_toolbar"
     android:layout_width="match_parent"
     android:layout_height="60dp"
-    android:background="?attr/colorPrimary"
+    android:background="@color/white"
     />
